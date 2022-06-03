@@ -1,4 +1,4 @@
-# Flareact Template
+# Flareact + Three.js + React v18 Template
 
 Get started with Flareact by installing [Wrangler](https://github.com/cloudflare/wrangler) and running:
 
